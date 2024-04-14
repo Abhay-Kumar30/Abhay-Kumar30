@@ -1,11 +1,11 @@
 
 <h1 align="center">Hi 👋, I'm Abhay Kumar</h1>
-<h3 align="center">A passionate Software developer from India</h3>
+<h3 align="center">A passionate Software Developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/200.webp?cid=ecf05e47jki646h26i1ofeh7f3qyd2uh4ir41qd3rdf8uy7i&ep=v1_gifs_search&rid=200.webp&ct=g" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhay-hhkumar&label=Profile%20views&color=0e75b6&style=flat" alt="abhay-hhkumar" /> </p>
 
-- 🌱 I’m currently learning **Unreal Engine**
+- 🌱 I’m currently learning **I am currently learning Data Structures & Algorithums and solving competitive problems**
 
 - 💬 Ask me about **Software Development and Game Development**
 
