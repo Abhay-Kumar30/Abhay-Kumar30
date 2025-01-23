@@ -7,15 +7,15 @@
 
 - ✔️Recently completed Internship **at OrgLens at role of Software Development (July 2024 - December 2024)**
 
-- 🖊️I’m currently learning **Advance Data Structures and Algorithms**
+- 🖊️I’m currently learning advance **Data Structures and Algorithms**
 
 - Actively seeking a **MERN Stack Developer role.**
 
-- 💬 Ask me about **MERN Stack & Software Development**
+- 💬 Ask me about **MERN Stack** & **Software Development**
 
 - 📫 How to reach me **abhaykumar1gkp@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1yWJn57cv3bAhJAmYeym1BGr2PrcsE5M3/view?usp=sharing](https://drive.google.com/file/d/1yWJn57cv3bAhJAmYeym1BGr2PrcsE5M3/view?usp=sharing)
+- 📄 My Resume [https://drive.google.com/file/d/1yWJn57cv3bAhJAmYeym1BGr2PrcsE5M3/view?usp=sharing](https://drive.google.com/file/d/1yWJn57cv3bAhJAmYeym1BGr2PrcsE5M3/view?usp=sharing)
 
 - ⚡ Fun fact **I am Adventure lover**
 
@@ -32,4 +32,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhay-kumar30&show_icons=true&locale=en" alt="abhay-kumar30" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhay-kumar30&" alt="abhay-kumar30" /></p>
