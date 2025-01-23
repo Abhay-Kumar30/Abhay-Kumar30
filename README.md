@@ -9,7 +9,7 @@
 
 - 🖊️I’m currently learning advance **Data Structures and Algorithms**
 
-- 📌Actively seeking a **MERN Stack Developer role.**
+- 📌Actively seeking for **MERN Stack Developer role.**
 
 - 💬 Ask me about **MERN Stack** & **Software Development**
 
