@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhay-hhkumar&label=Profile%20views&color=0e75b6&style=flat" alt="abhay-hhkumar" /> </p>
 
-- 🌱 I’m currently learning **I am currently learning Data Structures & Algorithums and solving competitive problems**
+- 🌱 **Completed a Software Development internship at OrgLens (July 2024 – Dec 2024). Skilled in MERN stack (HTML, CSS, JavaScript, React.js, Node.js, Express.js, MongoDB) and experienced with Firebase, REST APIs, Bootstrap, Git, and GitHub. Actively seeking a MERN Stack Developer role. I’m currently learning I am currently learning Data Structures & Algorithums and solving competitive problems**
 
 - 💬 Ask me about **Software Development and Game Development**
 
