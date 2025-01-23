@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- ✔️Recently completed Internship **at OrgLens at role of Software Development (July 2024 - December 2024)**
+- ✔️Recently completed an internship **at OrgLens at the role of Software Development (July 2024 - December 2024)**
 
 - 🖊️I’m currently learning advance **Data Structures and Algorithms**
 
