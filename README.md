@@ -54,11 +54,4 @@
 
 ---
 
-### 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abhay-kumar30&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhay-kumar30&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
-</p>
