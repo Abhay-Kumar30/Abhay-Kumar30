@@ -28,7 +28,7 @@
 ### 💼 Experience
 
 **Project Engineer Intern — Regami Solutions**
-*Mar 2026 – Present*
+*Mar 2026 – June 2026*
 
 * Developed and maintained scalable frontend modules using **React.js, Preact.js, TypeScript, JavaScript, Redux, Tailwind CSS, and Material UI**
 * Built reusable UI components, custom hooks, shared utilities, and design system elements
