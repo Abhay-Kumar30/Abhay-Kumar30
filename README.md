@@ -135,8 +135,6 @@
 * Implemented frontend-backend integration using REST APIs
 * Built responsive interfaces using React.js
 
-🔗 **Live:** https://abhay-hhkumar.github.io/ecommercefrontend/
-
 ---
 
 ### 🧠 Coding Profiles
